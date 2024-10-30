@@ -1,4 +1,4 @@
-### Hi there 👋, Lamiaa Gamal 
+### Hi there 👋,my name is  Lamiaa Gamal 
 #### Flutter Developer
 Flutter Developer has good experience in creating innovative mobile applications. I can create a very skillful and identical design and integrate it with the API with effective and fast performance. I have good knowledge of the basics of programming. I seek to develop by learning more in the field of mobile phone development.
 

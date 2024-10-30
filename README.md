@@ -2,7 +2,15 @@
 #### Flutter Developer
 Flutter Developer has good experience in creating innovative mobile applications. I can create a very skillful and identical design and integrate it with the API with effective and fast performance. I have good knowledge of the basics of programming. I seek to develop by learning more in the field of mobile phone development.
 
-Skills: * "Dart" * "oop" * "data structures" * "dio" * "http" * "bloc" * "provider" * "clean architecture"  
+Skills:
+* "Dart"
+* "oop"
+* "data structures"
+* "dio"
+* "http"
+* "bloc"
+* "provider"
+* "clean architecture"  
 
 - 🔭 I’m currently working on this page. 
 

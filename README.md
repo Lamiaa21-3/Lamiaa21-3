@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Lamiaa Gamal 
+#### Flutter Developer
+![Flutter Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Lamiaa21-3/Lamiaa21-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer has good experience in creating innovative mobile applications. I can create a very skillful and identical design and integrate it with the API with effective and fast performance. I have good knowledge of the basics of programming. I seek to develop by learning more in the field of mobile phone development.
 
-Here are some ideas to get you started:
+Skills: "Dart", "Java", "Python", "C++", "C#" 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
